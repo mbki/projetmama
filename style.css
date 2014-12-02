@@ -1,0 +1,26 @@
+
+html {
+    font-size: 12px;
+}
+
+
+body {
+   background-color:teal;
+    color: white;
+    font-family: "Century Gothic", sans-serif;
+    font-size: 14px;
+    line-height: 1.5;
+    
+  
+  margin:65px;
+   padding:30px;
+    text-align:center;
+     
+.bloc_centre{
+    
+    text-align:left;
+}
+    hi {
+        font-family: "onyx";
+    }
+    
